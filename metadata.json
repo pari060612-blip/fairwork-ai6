@@ -1,0 +1,6 @@
+{
+  "name": "FairWork AI",
+  "description": "Workforce health, shift tracking, transparent payslips, safety reporting, and fatigue prevention platform for Construction and Education sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
